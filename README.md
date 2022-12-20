@@ -32,8 +32,8 @@
 
 
 
-  ![Snake animation](https://github.com/patrickstar-code/patrickstar-code/blob/output/github-contribution-grid-snake.svg)
-
+<!--   ![Snake animation](https://github.com/patrickstar-code/patrickstar-code/blob/output/github-contribution-grid-snake.svg)
+ -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F8C&height=120&section=footer"/>
 
