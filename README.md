@@ -9,7 +9,7 @@
  <img align="right" alt="PatrickStar" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/32/0d/74/320d7408ede9569689f5b6adb253fb37.jpg">
 
 ### Skills:
-![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=00000&labelColor=0D1117)&nbsp
+![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=00000&labelColor=0D1117)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
