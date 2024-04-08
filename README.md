@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-Reac.js-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp; 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -25,8 +27,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-Reac.js-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp; 
+
 ![Node.JS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.Js&labelColor=0D1117)&nbsp; 
 
 
