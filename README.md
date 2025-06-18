@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F8C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F8C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Patrick+da+Silva+Almeida;I'm+20+years+old;I+from+Brasil,+JF;I+study+systems+Analysis+and+Development+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F8C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Patrick+da+Silva+Almeida;I'm+21+years+old;I+from+Brasil,+JF;I+study+systems+Analysis+and+Development+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PatrickStar-code&show_icons=true&count_private=true&hide_border=true&title_color=FF7F8C&icon_color=FF7F8C&text_color=c9d1d9&bg_color=0d1117" alt="Patrick Star github" /> 
