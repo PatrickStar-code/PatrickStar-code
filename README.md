@@ -17,7 +17,7 @@
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-Reac.js-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp; 
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp; 
 ![Next.JS](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.Js&labelColor=0D1117)&nbsp; 
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
