@@ -30,11 +30,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![intelij](https://img.shields.io/badge/-Intelij-0D1117?style=for-the-badge&logo=Intelij&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp; 
+
 
 ### Studying in this moment:
 
 ![Node.JS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.Js&labelColor=0D1117)&nbsp; 
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp; 
 
 
 
