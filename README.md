@@ -22,6 +22,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00000&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.Js&labelColor=0D1117)&nbsp; 
+
 
 
 ### Tools:
@@ -34,9 +36,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp; 
 
 
-### Studying in this moment:
-
-![Node.JS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.Js&labelColor=0D1117)&nbsp; 
 
 
 
